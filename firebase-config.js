@@ -43,6 +43,6 @@ onAuthStateChanged(auth, (user) => {
     loginBtn.onclick = () => signOut(auth);
   } else {
     loginBtn.innerText = "Login with Google";
-    loginBtn.onclick = () => signInWithRedirect(auth, provider);
+    loginBtn.onclick = () => signInWithPopup(auth, provider);
   }
 });
