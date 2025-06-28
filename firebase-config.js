@@ -14,12 +14,12 @@ import {
 
 // 🔧 Replace with your actual Firebase config
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
+  apiKey: "AIzaSyCRWDOIADNdoXzUG2dJUlKQqkiU-defAUY",
   authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
   projectId: "YOUR_PROJECT_ID",
   storageBucket: "YOUR_PROJECT_ID.appspot.com",
   messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  appId: "1:168960146548:web:d3414197dffad4cd1e6521"
 };
 
 // ✅ Initialize Firebase
