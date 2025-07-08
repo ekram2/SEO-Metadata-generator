@@ -1,6 +1,6 @@
 # 🧠 SEO Metadata Generator – AI + SaaS Web App
 
-A powerful, AI-enhanced SEO metadata generator tool with PWA support, Google login, OpenAI description writer, export features, and Stripe payment for PRO users.
+A powerful, AI-enhanced SEO metadata generator tool with PWA support, Google login,AI description writer, export features, and Stripe payment for PRO users.
 
 ---
 
@@ -8,7 +8,7 @@ A powerful, AI-enhanced SEO metadata generator tool with PWA support, Google log
 
 - 🔐 Google Login via Firebase Auth
 - 📄 Generate SEO metadata (title, description, keywords)
-- 🧠 Auto-generate descriptions using OpenAI
+- 🧠 Auto-generate descriptions using AI
 - 📦 Export metadata as JSON / CSV
 - 📋 Copy to clipboard
 - 💳 Upgrade to PRO (Stripe integration)
